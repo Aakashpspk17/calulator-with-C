@@ -41,3 +41,7 @@ int main()
                 break;
         }
  }
+ printf("\n------------------------\n");
+    }while(choice!=5);
+    getch();
+    return 0;
